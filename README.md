@@ -14,7 +14,7 @@ This campaign advocates for native Linux support or Proton compatibility—built
 
 ## 📖 Open Letter
 
-📝 [Read the Open Letter on OpenLetter.earth](https://your-openletter-link)
+📝 [Read the Open Letter on OpenLetter.earth](https://openletter.earth/let-us-play-a-call-for-linux-access-to-pokemon-tcg-live-b04b7157)
 
 Outlines technical feasibility, community frustration, and fair access.  
 Includes verified Unity receipts and quotes from affected players.
