@@ -33,7 +33,7 @@ Includes verified Unity receipts and quotes from affected players.
 ## 📣 Ticket Drive – Call to Action
 
 Help us advocate directly by submitting a support ticket:
-1. Visit [support.pokemon.com](https://support.pokemon.com)
+1. Visit [support.pokemon.com](https://support.pokemon.com/hc/en-us/articles/360054700932-Contact-Us)=
 2. Select:
    - *Category*: **Feedback**
    - *Operating System*: **Windows** (used via VM/emulation on Linux)
