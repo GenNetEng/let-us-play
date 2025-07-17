@@ -68,7 +68,7 @@ Unity natively supports Linux builds. PTCGL has no engine-level blocker.
 
 ## 📊 Campaign Infographic
 
-A visual summary of platform parity issues, community frustration, and technical feasibility for Linux support in Pokémon TCG Live:
+A visual summary of platform parity issues, community frustration, and technical feasibility for Linux support in Pokémon TCG Live
 
 ![Let Us Play – Infographic](https://github.com/GenNetEng/let-us-play/blob/main/let-us-play-infographic-v2.png?raw=true)
 
