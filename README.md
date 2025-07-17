@@ -23,9 +23,10 @@ Includes verified Unity receipts and quotes from affected players.
 
 ## 💬 Community Support
 
-- Reddit thread: [r/linux_gaming & r/PTCGL](https://your-reddit-link)
-- Pokémon forums discussion: [Community.pokemon.com](https://your-forum-link)
-- Bluesky post: [Quote shared by Trainer @handle](https://your-bluesky-link)
+- Reddit thread: [r/linux_gaming & r/PTCGL](https://www.reddit.com/r/PTCGL/comments/1lnzy3d/linux_users_are_completely_locked_out_of_ptcgland/)
+- Pokémon forums discussion: [Community.pokemon.com](https://community.pokemon.com/en-us/discussion/19122/linux-players-currently-cannot-play-pokemon-tcg-live-and-we-need-your-support)
+- Bluesky posts: [Quote shared by Trainer @genneteng.bsky.social](https://bsky.app/profile/genneteng.bsky.social/post/3lu5kcawxok2p)
+- Bluesky post: [Quote shared by Trainer @genneteng.bsky.social](https://bsky.app/profile/genneteng.bsky.social/post/3lssj6e3xik2g)
 
 ---
 
@@ -44,8 +45,8 @@ Help us advocate directly by submitting a support ticket:
 > Emulation is unstable and unreliable.  
 >  
 > Open letter: [your OpenLetter.earth link]  
-> Reddit campaign: [your Reddit link]  
-> Forum feedback: [your forum thread]  
+> Reddit campaign: [https://www.reddit.com/r/PTCGL/comments/1lnzy3d/linux_users_are_completely_locked_out_of_ptcgland/]
+> Forum feedback: [https://community.pokemon.com/en-us/discussion/19122/linux-players-currently-cannot-play-pokemon-tcg-live-and-we-need-your-support]
 >  
 > Please consider Linux support. All Trainers deserve a way to play.
 
