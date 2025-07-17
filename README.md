@@ -1,3 +1,4 @@
+![Let Us Play – A Linux TCG Advocacy Campaign](https://img.shields.io/badge/TrainerUnity-Linux%20Support%20Now-FF424D?style=for-the-badge&logo=pokemon&logoColor=white)
 # Let Us Play – Linux Access to Pokémon TCG Live
 
 > A community-powered initiative to bring platform parity, accessibility, and inclusion to Pokémon TCG Live for Linux users.
