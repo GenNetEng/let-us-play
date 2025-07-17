@@ -44,7 +44,7 @@ Help us advocate directly by submitting a support ticket:
 > The game is built with Unity, which supports native Linux.  
 > Emulation is unstable and unreliable.  
 >  
-> Open letter: [your OpenLetter.earth link]  
+> Open letter: [https://openletter.earth/let-us-play-a-call-for-linux-access-to-]  
 > Reddit campaign: [https://www.reddit.com/r/PTCGL/comments/1lnzy3d/linux_users_are_completely_locked_out_of_ptcgland/]
 > Forum feedback: [https://community.pokemon.com/en-us/discussion/19122/linux-players-currently-cannot-play-pokemon-tcg-live-and-we-need-your-support]
 >  
