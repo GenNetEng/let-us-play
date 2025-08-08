@@ -23,7 +23,7 @@ Includes verified Unity receipts and quotes from affected players.
 
 ## 💬 Community Support
 
-- Reddit thread: [[r/linux_gaming](https://www.reddit.com/r/linux_gaming/comments/1m23qf8/linux_users_are_completely_locked_out_of_ptcgland/) & [r/PTCGL](https://www.reddit.com/r/PTCGL/comments/1lnzy3d/linux_users_are_completely_locked_out_of_ptcgland/)
+- Reddit thread: [r/PTCGL](https://www.reddit.com/r/PTCGL/comments/1lnzy3d/linux_users_are_completely_locked_out_of_ptcgland/)
 - Pokémon forums discussion: [Community.pokemon.com](https://community.pokemon.com/en-us/discussion/19122/linux-players-currently-cannot-play-pokemon-tcg-live-and-we-need-your-support)
 - Bluesky posts: [Quote shared by Trainer @genneteng.bsky.social](https://bsky.app/profile/genneteng.bsky.social/post/3lu5kcawxok2p)
 - Bluesky post: [Quote shared by Trainer @genneteng.bsky.social](https://bsky.app/profile/genneteng.bsky.social/post/3lssj6e3xik2g)
@@ -52,7 +52,15 @@ Help us advocate directly by submitting a support ticket:
 
 ✅ *The more tickets submitted, the louder our unified message becomes.*
 
+
+### Tickets opened with Pokemon Support
+| Ticket ID | Subject                                            | Ticket Type | Date opened | Date Resolved |
+| ---       | ---                                                | ---         | ---         | ---           |
+| #3155454  | Request for Native Linux Client – Pokémon TCG Live | Feedback    | 2025-07-17  | 2025-07-21    |
+
 ---
+
+
 
 ## 🧪 Technical Receipts
 
@@ -66,13 +74,6 @@ Unity natively supports Linux builds. PTCGL has no engine-level blocker.
 
 ---
 
-## 📊 Campaign Infographic
-
-A visual summary of platform parity issues, community frustration, and technical feasibility for Linux support in Pokémon TCG Live
-
-![Let Us Play – Infographic](https://github.com/GenNetEng/let-us-play/blob/main/let-us-play-infographic-v2.png?raw=true)
-
----
 
 ## 🧪 Verified Unity Evidence
 
