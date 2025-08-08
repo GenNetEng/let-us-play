@@ -84,7 +84,7 @@ Screenshots from the game installation confirm Unity architecture and components
 ### 🔍 Unity Game Files (DLL + Asset Folders)
 ![Unity Game Files Screenshot](https://github.com/GenNetEng/let-us-play/blob/main/unity-files-screenshot.png?raw=true)
 
-These receipts make it clear: the engine supports it—the blocker isn’t technical.
+These receipts make it clear: the engine supports it—the blocker isn’t entirely technical.
 
 
 ---
@@ -92,13 +92,13 @@ These receipts make it clear: the engine supports it—the blocker isn’t techn
 ## 🧠 FAQs
 
 **Q: Why does selecting "Windows" matter in support tickets?**  
-A: The ticket system only allows dropdown OS fields. By selecting Windows and clarifying Linux use via emulation, we highlight the forced workaround.
+A: The ticket system only allows dropdown OS fields. By selecting Windows we highlight that linux users are forced to use work arounds like dual-booting into Windows, VMs, or as a compatibility-layer like Wine or bottles, we highlight the forced workaround.
 
-**Q: Isn’t Linux support a small market?**  
-A: Linux users include developers, educators, and community contributors—people who help grow the ecosystem and actively support the physical TCG.
+**Q: Isn’t Linux support a small market? Why should TPCi support a Linux Client?**  
+A: Yes, Linux users are a small market, but many of us contribute to the things that we are passionate about.  Our ranks include developers, educators, and community contributors—people who are likely help grow the ecosystem and actively support the physical TCG. Show Linux users a little love, and we will show it in return.
 
 **Q: Is Linux support actually possible?**  
-A: Yes. Unity supports Linux builds natively. Proton packaging requires minor effort. Flatpak compatibility is also achievable.
+A: Yes. PTCGL is currently built on Unity, and Unity supports Linux builds natively.  Hopefully since there is a MacOS version, there the port to Linux is easier, since it may have an alternative to Direct3d like OpenGL.  Aside from that, Proton packaging requires minor effort. Flatpak compatibility is also achievable.
 
 ---
 
