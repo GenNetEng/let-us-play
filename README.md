@@ -92,7 +92,7 @@ These receipts make it clear: the engine supports it—the blocker isn’t entir
 ## 🧠 FAQs
 
 **Q: Why does selecting "Windows" matter in support tickets?**  
-A: The ticket system only allows dropdown OS fields. By selecting Windows we highlight that linux users are forced to use work arounds like dual-booting into Windows, VMs, or as a compatibility-layer like Wine or bottles, we highlight the forced workaround.
+A: The ticket system only allows dropdown OS fields. By selecting Windows we highlight that linux users are forced to use work arounds like dual-booting into Windows, VMs, or as a compatibility-layer like Wine or bottles.
 
 **Q: Isn’t Linux support a small market? Why should TPCi support a Linux Client?**  
 A: Yes, Linux users are a small market, but many of us contribute to the things that we are passionate about.  Our ranks include developers, educators, and community contributors—people who are likely help grow the ecosystem and actively support the physical TCG. Show Linux users a little love, and we will show it in return.
